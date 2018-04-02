@@ -1,3 +1,9 @@
-##Population/Settings (56 Terms)
+## Population/Settings (56 Terms)
+
+1.
+
+2. 
+
+
 
 
