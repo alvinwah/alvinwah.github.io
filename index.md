@@ -210,7 +210,7 @@ Topic 112: Skeletal Muscle
 Topic 113: Genetic Links 
 
 
-[Population/Settings](populationsettings.md)
+[Population/Settings](PopulationSettings.md)
 
 
 			
