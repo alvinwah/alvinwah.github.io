@@ -159,7 +159,7 @@
 ## Back to Main Page
 [Collective Themes](index.md)
 
-## Links to Other Pages 
+## Other Pages 
 
 [Population/Settings](populationsettings.md)
 
