@@ -53,7 +53,7 @@
 ## Back to Main Page
 [Collective Themes](index.md)
 
-## Links to other Pages 
+## Other Pages 
 [Population/Settings](populationsettings.md)
 
 [Conditions/Issues](conditionsissues.md)
