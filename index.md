@@ -227,8 +227,6 @@ Topic 113: Genetic Links
 
 [Physiology](physiology.md)
 
-[Others](others.md)
-
 
 			
 
