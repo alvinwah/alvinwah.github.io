@@ -1,4 +1,4 @@
-## Population/Settings (56 terms)
+## Population/Settings (56 Terms)
 
 1. Caregivers 
 
