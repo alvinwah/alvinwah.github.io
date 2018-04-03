@@ -173,6 +173,5 @@
 
 [Physiology](physiology.md)
 
-[Others](others.md)
 
 
