@@ -1,5 +1,7 @@
 ## Welcome to SSM FYP 2018 - Frailty Research: Scoping Review Utilising a Topic Modelling Approach 
 
+Links to other pages are located at the bottom.
+
 ## The 107 Collective Themes are listed in order: 
 Topic 1: Delirium		
 
@@ -209,8 +211,23 @@ Topic 112: Skeletal Muscle
 
 Topic 113: Genetic Links 
 
+## Links to other pages 
 
 [Population/Settings](populationsettings.md)
+
+[Conditions/Issues](conditionsissues.md)
+
+[Modality](modality.md)
+
+[Research Methodology/Assessments](researchmethodologyassessments.md)
+
+[Anatomy](anatomy.md)
+
+[Constructs/Philosophy](constructsphilosophy.md)
+
+[Physiology](physiology.md)
+
+[Others](others.md)
 
 
 			
