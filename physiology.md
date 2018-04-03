@@ -142,4 +142,4 @@
 
 [Constructs/Philosophy](constructsphilosophy.md)
 
-[Others](others.md)
+
